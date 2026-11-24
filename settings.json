@@ -2,10 +2,11 @@
   "server": {
     "ip": "wardenhere-bedrock.aternos.me",
     "port": 19132,
+    "version": "1.26.66",
     "offline": true
   },
   "bot": {
-    "username": "wardenafk",
+    "username": "BedrockGuard247",
     "autoReconnect": true,
     "reconnectDelaySeconds": 15
   },
@@ -13,8 +14,6 @@
     "antiAfkWalk": true,
     "walkIntervalSeconds": 5,
     "swingArmMiningAnim": true,
-    "autoRespawn": true,
-    "chatAliveMessage": false,
-    "chatIntervalMinutes": 10
+    "autoRespawn": true
   }
 }
